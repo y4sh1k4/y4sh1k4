@@ -1,16 +1,25 @@
-## Hi there 👋
+# Welcome to my GitHub Profile  
 
-<!--
-**y4sh1k4/y4sh1k4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Description  
+Hello! I'm Yashika Mehndiratta, a passionate developer exploring the exciting world of Web3, blockchain, and full-stack development.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me  
+- **Full Stack Developer**  
+- **Web3 Development**  
+- **Blockchain Enthusiast**  
+- You can reach me at: mehndirattayashika5@gmail.com  
+
+---
+
+## Connect with Me  
+- **Email**: mehndirattayashika5@gmail.com  
+- **LinkedIn**: [Yashika Mehndiratta](https://www.linkedin.com/in/yashika-mehndiratta-694268248/)  
+- **Twitter**: [@hey_itsyashika](https://x.com/hey_itsyashika)  
+
+---
+
+Thank you for visiting my profile!
